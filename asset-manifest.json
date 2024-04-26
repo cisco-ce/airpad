@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.cd5b7f40.css",
+    "main.js": "./static/js/main.6ce2eb14.js",
+    "static/media/Inter-VariableFont.ttf": "./static/media/Inter-VariableFont.853e01975d2783d9fa29.ttf",
+    "static/media/wallpaper.jpeg": "./static/media/wallpaper.32e5d92a3e281436149e.jpeg",
+    "static/media/MomentumFontIcon.woff2": "./static/media/MomentumFontIcon.aa2632a073399199a197.woff2",
+    "static/media/wallpaper-start.png": "./static/media/wallpaper-start.af24e255e9eaeea901b7.png",
+    "static/media/webex.svg": "./static/media/webex.d804ebf7dcd2eb340adb.svg",
+    "static/media/microsoft-teams.svg": "./static/media/microsoft-teams.cbb6f87d26948a28ebf1.svg",
+    "static/media/zoom.svg": "./static/media/zoom.66eeba4e7efa8e0ffd5c.svg",
+    "static/media/google-meet.svg": "./static/media/google-meet.91a5bdb0b603380e122d.svg",
+    "static/media/slido.svg": "./static/media/slido.dd8c12183209b43e4aee.svg",
+    "index.html": "./index.html",
+    "main.cd5b7f40.css.map": "./static/css/main.cd5b7f40.css.map",
+    "main.6ce2eb14.js.map": "./static/js/main.6ce2eb14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd5b7f40.css",
+    "static/js/main.6ce2eb14.js"
+  ]
+}

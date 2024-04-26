@@ -1,0 +1,7 @@
+{
+    "name": "RoomOS",
+    "short_name": "RoomOS",
+    "description": "Controller for Cisco devices",
+    "display": "standalone",
+    "start_url": "./"
+  }

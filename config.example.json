@@ -1,0 +1,5 @@
+{
+  "//": "Save this file as config.json and override it to change defaults",
+
+  "disableCallHistory": true
+}
