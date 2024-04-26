@@ -1,14 +1,15 @@
 # RoomOS Air
 
-<div style="width: 100%; display: flex; justify-content: center">
-  <img src="./src/assets/images/product-demo.png" alt="iPad with RoomOS Air homescreen"  style="width: 400px;" />
-</div>
-<!-- ![iPad with RoomOS Air homescreen](./src/assets/images/product-demo.png) -->
 
 RoomOS Air is a web based controller for Cisco collaboration devices for off-the-shelf devices such as iPad, laptops, smart phones
 etc that cannot run native RoomOS code. It is mimicking the native RoomOS UI as closely as possible, for a consistent and familiar user experience.
 
 The app only provides the user interface for controlling the video device, not video or audio for the meeting itself.
+
+## Demo
+
+Try it on 🕹 [️ cisco-ce.github.io/airpad/](https://cisco-ce.github.io/airpad/)
+
 
 ## Requirements
 
@@ -193,7 +194,7 @@ Unpair as usual to get back to the login page. You can also use the URL params t
 
 ## Useful links
 
-- [Online hosted version](https://kyberheimen.com/airpadone) - Temporarily hosted version (Cisco URL not available yet)
+- [Online hosted version](https://cisco-ce.github.com/airpad) - Github repo
 - [GitHub repo](https://sqbu-github.cisco.com/roomos-air/roomos-air) - Potentially: open source on GitHub
 - [React](https://react.dev/) - ui library
 - [JSXAPI](https://github.com/cisco-ce/jsxapi) - SDK for talking xAPI with the Cisco device
